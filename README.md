@@ -17,8 +17,13 @@ Then just run LeapHue.py.
 This program detects number of fingers and will change the color.
 
 0 Fingers: Off
+
 1 Finger: Purple
+
 2 Fingers: Green  
+
 3 Fingers: Yellow
+
 4 Fingers: Orange
+
 5 Fingers: Pink
